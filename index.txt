@@ -29,7 +29,7 @@
         });
         const accounts = await walletClient.requestAddresses();
         const [address] = accounts;
-        const MoodContractAddress ="0x39E7536df2F2fa07Bfc773d83a1aEBc2E608f45E";
+        const MoodContractAddress =".......";    //your deployed addresss in ...(can be found below Deployed/Unpinned Contracts)
         const MoodContractABI =[
 	{
 		"inputs": [],
